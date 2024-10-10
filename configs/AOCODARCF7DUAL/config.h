@@ -23,7 +23,7 @@
 
 #define FC_TARGET_MCU     STM32F7X2
 
-#define BOARD_NAME        AOCODARCF7DUAL
+#define BOARD_NAME       F7DUAL
 #define MANUFACTURER_ID   SJET
 
 #define USE_ACC
@@ -116,3 +116,4 @@
 #define GYRO_2_SPI_INSTANCE SPI2
 #define GYRO_2_ALIGN CW180_DEG
 #define GYRO_2_ALIGN_YAW 1800
+
